@@ -1,0 +1,6 @@
+framework module Pods_MoreLabelDemo {
+  umbrella header "Pods-MoreLabelDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
